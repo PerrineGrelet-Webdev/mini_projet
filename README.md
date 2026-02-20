@@ -2,14 +2,12 @@
 
   ## Présentation rapide
   
-Ce projet est une petite application React qui génère automatiquement un tableau des besoins journaliers en protéines en fonction :
+Cette application génère un tableau des besoins journaliers en protéines en fonction :
 
 - du poids (min, max, nombre de valeurs)
 
 - des objectifs sportifs choisis
   (sédentaire, endurance, maintien musculaire, prise de masse)
-
-Le but est de pratiquer les bases de React tout en créant un outil clair et interactif.
 
 ## Installation & lancement (npm)
   ### Prérequis
